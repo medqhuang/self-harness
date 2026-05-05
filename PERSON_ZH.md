@@ -1,4 +1,4 @@
-# person.md（中文版）
+# PERSON_ZH.md
 
 给自己的 harness。跑偏的时候，回来看一眼。
 
