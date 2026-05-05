@@ -1,4 +1,4 @@
-# person.md
+# PERSON.md
 
 A harness for myself. When I drift, I come back here.
 
