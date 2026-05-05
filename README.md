@@ -23,7 +23,7 @@ So I wrote one for myself. Called it `PERSON.md`.
 3. Make your own calls
 4. Don't use AI to numb yourself
 
-Each one comes with a tripwire — how I know I've slipped. Catching the slip is harder than fixing it, so the signals need to be specific.
+Each one comes with a "slipping when." Catching it is the hard part — the signal has to be specific or I'll miss it.
 
 ## For the record
 
