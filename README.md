@@ -1,6 +1,6 @@
-# self-harness
+# Self-harness
 
-A `person.md` for myself. Same idea as `CLAUDE.md`, different audience.
+A `PERSON.md` for myself. Same idea as `CLAUDE.md`, different audience.
 
 ## Why this exists
 
@@ -12,11 +12,11 @@ Eventually I figured out it wasn't the agent. It was me — or more specifically
 
 We write `CLAUDE.md` files because we know the model drifts. Wrong assumptions, no pushback, lost context, fake confidence. But people drift too. Same failure modes, honestly.
 
-So I wrote one for myself. Called it `person.md`.
+So I wrote one for myself. Called it `PERSON.md`.
 
 ## What's in here
 
-[`person.md`](./person.md) — four rules:
+[`PERSON.md`](./PERSON.md) — four rules:
 
 1. Hand off the boring stuff
 2. Stay close to the code that matters
@@ -25,8 +25,8 @@ So I wrote one for myself. Called it `person.md`.
 
 Each one comes with a tripwire — how I know I've slipped. Catching the slip is harder than fixing it, so the signals need to be specific.
 
-## What this isn't
+## For the record
 
 Not a tutorial. Not advice. Not a framework. **It's mine.** I'm putting it on GitHub because making it public is part of the harness — easier to ignore something nobody's seen.
 
-If you're using AI agents and feel like you're getting faster but losing your grip, fork this and write your own `person.md`. Don't copy mine. Your failure modes aren't my failure modes.
+If you're using AI agents and feel like you're getting faster but losing your grip, fork this and write your own `PERSON.md`. Don't copy mine. Your failure modes aren't my failure modes.
