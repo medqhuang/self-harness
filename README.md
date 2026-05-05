@@ -1,4 +1,4 @@
-# Self-harness
+# Self Harness
 
 A `PERSON.md` for myself. Same idea as `CLAUDE.md`, different audience.
 
