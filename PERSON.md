@@ -20,7 +20,7 @@ Core logic, data structures, entry points, module seams. Review in chunks small 
 
 **Slipping when:** Someone asks about the core and I have to go look.
 
-End of day, write 2–3 sentences about where the project is. What I can't write down is what I've lost.
+End of day, write something about where the project is. What I can't write down is what I've lost.
 
 ---
 
